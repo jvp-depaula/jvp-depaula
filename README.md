@@ -43,5 +43,5 @@ I'm passionate about clean code, software architecture, and problem-solving. I�
 ### 📫 Contact
 
 - 📬 Email: jvp_paula@hotmail.com  
-- 💼 [LinkedIn](www.linkedin.com/in/jvp-depaula)  
+- 💼 [LinkedIn](https://linkedin.com/in/jvp-depaula)
 - 🌍 Portfolio: Coming soon...
