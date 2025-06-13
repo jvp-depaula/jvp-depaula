@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm João Vitor 👨‍💻</h1>
+<h1 align="center">Hello, I'm João Vitor </h1>
 
 <p align="center">
   Software Developer • Full-Stack • Open to Work Globally
@@ -43,5 +43,5 @@ I'm passionate about clean code, software architecture, and problem-solving. I�
 ### 📫 Contact
 
 - 📬 Email: jvp_paula@hotmail.com  
-- 💼 [LinkedIn](www.linkedin.com/in/joão-vitor-de-paula-4221181b9)  
+- 💼 [LinkedIn](www.linkedin.com/in/jvp-depaula)  
 - 🌍 Portfolio: Coming soon...
